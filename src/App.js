@@ -3,7 +3,7 @@ import "./App.css";
 import { Settlements, Nav, MagicItems, Parcel } from "./components";
 
 function App() {
-  const [component, setComponent] = useState("settlements");
+  const [component, setComponent] = useState("");
 
   return (
     <div className="App">
