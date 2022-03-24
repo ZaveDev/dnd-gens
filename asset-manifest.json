@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dnd-gens/static/css/main.4747d883.chunk.css",
+    "main.js": "/dnd-gens/static/js/main.da2313b7.chunk.js",
+    "main.js.map": "/dnd-gens/static/js/main.da2313b7.chunk.js.map",
+    "runtime-main.js": "/dnd-gens/static/js/runtime-main.6971626c.js",
+    "runtime-main.js.map": "/dnd-gens/static/js/runtime-main.6971626c.js.map",
+    "static/js/2.c8e34f15.chunk.js": "/dnd-gens/static/js/2.c8e34f15.chunk.js",
+    "static/js/2.c8e34f15.chunk.js.map": "/dnd-gens/static/js/2.c8e34f15.chunk.js.map",
+    "index.html": "/dnd-gens/index.html",
+    "static/css/main.4747d883.chunk.css.map": "/dnd-gens/static/css/main.4747d883.chunk.css.map",
+    "static/js/2.c8e34f15.chunk.js.LICENSE.txt": "/dnd-gens/static/js/2.c8e34f15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6971626c.js",
+    "static/js/2.c8e34f15.chunk.js",
+    "static/css/main.4747d883.chunk.css",
+    "static/js/main.da2313b7.chunk.js"
+  ]
+}
