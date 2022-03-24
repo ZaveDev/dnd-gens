@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import { Settlements, Nav, MagicItems, Parcel } from "./components";
+import { Settlements, Nav, MagicItems, Parcel, Home } from "./components";
 
 function App() {
   const [component, setComponent] = useState("");
