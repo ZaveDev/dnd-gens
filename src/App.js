@@ -17,6 +17,7 @@ function App() {
           case "parcel":
             return <Parcel />;
           default:
+            return <Home />
             break;
         }
       })()}
